@@ -49,4 +49,3 @@ public class OAuthAdfsclientConfig {
 }
 
 
-// mvn archetype:generate -DgroupId=net.jpmchase.chroniclesdk -DartifactId=adfs-token-provider -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
