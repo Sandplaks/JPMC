@@ -1,8 +1,0 @@
-app:
-  adfs:
-    client-token-provider-id: B052565
-    provider-url: https://idadg2.jpmorganchase.com/adfs
-    resource-uri: JPMC:URI:RS-104912-44811-DATALAKE-DEV
-    client-id-for-certificate-auth: CC-103658-B052565-297686-DEV
-    client-key-store-classpath: aws-to-dpl.jks
-    client-key-store-secret: aws-to-dpl
